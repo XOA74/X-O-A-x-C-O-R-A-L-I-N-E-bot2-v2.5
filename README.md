@@ -14,6 +14,7 @@ X O A Bot2 v2.5 is a Discord bot designed for:
 - Domain/IP tools
 - Nmap scanning
 - Logging results to an SQL database
+- 40 options
 
 This bot stores user commands, scan results, and optional blacklist information.
 
